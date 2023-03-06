@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Parcel cache and output directories
+.cache/
+dist/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Coverage reports
+coverage/
